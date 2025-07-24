@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 ![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green?logo=qt)
-![Lightweight](https://img.shields.io/badge/Size-<50KB-success)
 
 This project is a digital clock made with Python, without using Tkinter.
 It opens in a separate window and shows the current time, updating every second. It uses another GUI library like PyQt5.
